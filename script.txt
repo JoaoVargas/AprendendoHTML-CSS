@@ -1,0 +1,41 @@
+Basic HTML Document Structure
+(29:05) Implementing Basic Document Structure
+(34:50) Word Wrap and Emmet
+(40:24) Heading Elements
+(44:33) Paragraph Elements
+(47:50) White Space Collapsing
+(49:22) Lorem Ipsum Dummy Text
+(51:17) Images
+(57:15) Multiple Path Options
+(1:00:06) External Images
+(1:02:43) Nice Images
+(1:05:49) Width and Height Attribute
+(1:08:40) Crop Images
+(1:12:07) Proper Path
+(01:15:37) Comments And Line Breaks
+(01:19:47) External Links
+(01:23:32) Internal Links
+(01:25:53) Links Within Page
+(01:30:10) Empty Links
+(01:32:39) Sup And Sub Elements
+(01:34:39) Strong And Em Elements
+(01:37:02) Special Characters In Html
+(01:38:58) Unordered Lists
+(01:41:25) Ordered Lists
+(01:42:18) Nested Lists
+(01:43:57) Table Element
+(01:46:10) Forms - Input And Submit Elements
+(01:58:12) Forms - Textarea - Radio - Checkbox
+(02:09:40) Prettier And Code Formatter
+(02:14:56) Keyboard Shortcuts
+(02:26:06) External Resources - Head Element
+(02:30:15) Html Project Intro
+(02:32:16) Project Setup
+(02:35:17) Download Images
+(02:39:02) Logo, Heading, Navigation
+(02:42:51) Home Page Completed
+(02:54:30) About Page
+(02:58:09) Numbers Page
+(03:04:14) Contact Page
+(03:09:11) Resource Files
+(03:09:42) Text Editor Setup
